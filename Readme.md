@@ -1,4 +1,4 @@
-*** Steps for installation - **
+* Steps for installation - 
 
 1. Download zip file.
 
@@ -15,8 +15,8 @@
 
 --------------------------------------------------------------------------------------------------------------
 
-*** The working screenshots of various endpoints are added below. 
-**
+* The working screenshots of various endpoints are added below -
+
 1. Registering a User - 
 
 ![image alt](https://github.com/hardik-in/irctc_api/blob/e9c346f641592a2da58abe8feeefd2bbb6051a40/assets/Usercreation.png)
