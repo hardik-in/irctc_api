@@ -1,1 +1,43 @@
+* Steps for installation - 
 
+1. Download zip file.
+
+
+
+2. Install Mysql and create databse scehemas according to the screenshots below. 
+
+
+3. Open the unzipped files in vsCode and run the following commands. 
+
+    - npm install
+    - npm start
+
+4. Use postman to test various endpoints. 
+
+--------------------------------------------------------------------------------------------------------------
+
+* The working screenshots of variouse endpoint are added below. 
+
+1. Registering a User - 
+
+assets/Usercreation.png
+
+2. User Login - 
+
+assets/UserLogin.png
+
+3. Add a new Train - 
+
+assets/AddingTrains.png
+
+4. Get seat availabailty - 
+
+assets/TrainStatus.png
+
+5. Book a seat - 
+
+assets/Booking.png
+
+6. Get Specific Booking Details - 
+
+assets/Admin.png
